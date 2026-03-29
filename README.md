@@ -196,4 +196,5 @@ I would be happy if you do stylistic edits and share it with everyone.
 </details>
 
 **Usage & Guidelines**
-These wallpapers are strictly for personal, non-commercial use. Please read the USAGE_GUIDELINES.md before downloading or sharing.
+
+These wallpapers are strictly for personal, non-commercial use. Please read the [USAGE_GUIDELINES.md](./USAGE_GUIDELINES.md) before downloading or sharing.
