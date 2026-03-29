@@ -19,14 +19,14 @@ I've shared two folders here:
 
 I would be happy if you do stylistic edits and share it with everyone.
 
-*I am also planning to create desktop versions of these wallpapers formatted for 16:9, ultrawide, and dual-monitor setups.*
+*I am also planning to create desktop versions of these wallpapers formatted for 16:9, ultrawide, and dual-monitor setups. (They nearly deleted all of the High Resolution Texture Pack so I might not do it if the quality is bad)*
 
 **Happy Hunting!**
 
 [![Download Edited](https://img.shields.io/badge/Download-Edited_Files-2ea44f?style=for-the-badge)](./Edited) 
 [![Download Raw](https://img.shields.io/badge/Download-Raw_Files-blue?style=for-the-badge)](./Raw)
 
-### Previews
+### Previews for Edited Files
 
 <details>
   <summary><b>🕷️ 12. The Sleeping Barina (Lala Barina)</b></summary>
