@@ -112,13 +112,13 @@ I would be happy if you do stylistic edits and share it with everyone.
 </details>
 
 <details>
-  <summary><b>🧊 52. Lats-ditch Deliverance (Zoh Shia)</b></summary>
+  <summary><b>🧊 52. Last-ditch Deliverance (Zoh Shia)</b></summary>
   <br>
   <p align="center">
-    <img src="./Edited/Mobile/52.%20Lats-ditch%20Deliverance%20(Zoh%20Shia)/IMG_8665.PNG" width="250" />
-    <img src="./Edited/Mobile/52.%20Lats-ditch%20Deliverance%20(Zoh%20Shia)/Shia_1V.png" width="250" />
-    <img src="./Edited/Mobile/52.%20Lats-ditch%20Deliverance%20(Zoh%20Shia)/Shia_2.JPG" width="250" />
-    <img src="./Edited/Mobile/52.%20Lats-ditch%20Deliverance%20(Zoh%20Shia)/Shia_2V.JPG" width="250" />
+    <img src="./Edited/Mobile/52.%20Last-ditch%20Deliverance%20(Zoh%20Shia)/IMG_8665.PNG" width="250" />
+    <img src="./Edited/Mobile/52.%20Last-ditch%20Deliverance%20(Zoh%20Shia)/Shia_1V.png" width="250" />
+    <img src="./Edited/Mobile/52.%20Last-ditch%20Deliverance%20(Zoh%20Shia)/Shia_2.JPG" width="250" />
+    <img src="./Edited/Mobile/52.%20Last-ditch%20Deliverance%20(Zoh%20Shia)/Shia_2V.JPG" width="250" />
   </p>
 </details>
 
@@ -188,9 +188,12 @@ I would be happy if you do stylistic edits and share it with everyone.
   <summary><b>🦅 62. Wings That Tear Opent the Sky (Seregios)</b></summary>
   <br>
   <p align="center">
-    <img src="./Edited/Mobile/62.%20Wings%20That%20Tear%20Opent%20the%20Sky%20(Seregios)/Seregios_1.JPG" width="250" />
-    <img src="./Edited/Mobile/62.%20Wings%20That%20Tear%20Opent%20the%20Sky%20(Seregios)/Seregios_1V.JPG" width="250" />
-    <img src="./Edited/Mobile/62.%20Wings%20That%20Tear%20Opent%20the%20Sky%20(Seregios)/Seregios_2.JPG" width="250" />
-    <img src="./Edited/Mobile/62.%20Wings%20That%20Tear%20Opent%20the%20Sky%20(Seregios)/Seregios_2V.JPG" width="250" />
+    <img src="./Edited/Mobile/62.%20Wings%20That%20Tear%20Open%20the%20Sky%20(Seregios)/Seregios_1.JPG" width="250" />
+    <img src="./Edited/Mobile/62.%20Wings%20That%20Tear%20Open%20the%20Sky%20(Seregios)/Seregios_1V.JPG" width="250" />
+    <img src="./Edited/Mobile/62.%20Wings%20That%20Tear%20Open%20the%20Sky%20(Seregios)/Seregios_2.JPG" width="250" />
+    <img src="./Edited/Mobile/62.%20Wings%20That%20Tear%20Open%20the%20Sky%20(Seregios)/Seregios_2V.JPG" width="250" />
   </p>
 </details>
+
+**Usage & Guidelines**
+These wallpapers are strictly for personal, non-commercial use. Please read the USAGE_GUIDELINES.md before downloading or sharing.
