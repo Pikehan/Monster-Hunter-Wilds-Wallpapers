@@ -1,4 +1,4 @@
-# Monster-Hunter-Wilds-Wallpapers
+# <img src="https://preview.redd.it/monster-hunter-wilds-logo-without-shadow-color-black-white-v0-qv1szrtv8w3d1.png?width=640&crop=smart&auto=webp&s=0dd3e6ae463a01237e70abf045acb64e7631927a" width="30" height="auto" alt="Monster Hunter Wilds B&W Logo" /> Monster-Hunter-Wilds-Wallpapers
 
 I really love Monster Hunter and always wanted some good mobile wallpapers, but I couldn't find decent ones formatted for phone screen ratios. 
 
