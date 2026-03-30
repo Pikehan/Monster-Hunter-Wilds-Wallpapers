@@ -23,8 +23,8 @@ I would be happy if you do stylistic edits and share it with everyone.
 
 **Happy Hunting!**
 
-[![Download Edited](https://img.shields.io/badge/Download-Edited_Files-2ea44f?style=for-the-badge)](https://downgit.github.io/#/home?url=https://github.com/Pikehan/Monster-Hunter-Wilds-Wallpapers/tree/main/Edited) 
-[![Download Raw](https://img.shields.io/badge/Download-Raw_Files-blue?style=for-the-badge)](https://downgit.github.io/#/home?url=https://github.com/Pikehan/Monster-Hunter-Wilds-Wallpapers/tree/main/Raw)
+[![Download Edited](https://img.shields.io/badge/Download-Edited_Files-2ea44f?style=for-the-badge)](https://github.com/Pikehan/Monster-Hunter-Wilds-Wallpapers/releases/download/v1.0/Edited.zip)
+[![Download Raw](https://img.shields.io/badge/Download-Raw_Files-blue?style=for-the-badge)](https://github.com/Pikehan/Monster-Hunter-Wilds-Wallpapers/releases/download/v1.0/Raw.zip)
 
 ### Previews for Edited Files
 
