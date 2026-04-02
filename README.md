@@ -115,7 +115,7 @@ I would be happy if you do stylistic edits and share it with everyone.
   <summary><b>🧊 52. Last-ditch Deliverance (Zoh Shia)</b></summary>
   <br>
   <p align="center">
-    <img src="./Edited/Mobile/52.%20Last-ditch%20Deliverance%20(Zoh%20Shia)/IMG_8665.PNG" width="250" />
+    <img src="./Edited/Mobile/52.%20Last-ditch%20Deliverance%20(Zoh%20Shia)/Shia_1.png" width="250" />
     <img src="./Edited/Mobile/52.%20Last-ditch%20Deliverance%20(Zoh%20Shia)/Shia_1V.png" width="250" />
     <img src="./Edited/Mobile/52.%20Last-ditch%20Deliverance%20(Zoh%20Shia)/Shia_2.JPG" width="250" />
     <img src="./Edited/Mobile/52.%20Last-ditch%20Deliverance%20(Zoh%20Shia)/Shia_2V.JPG" width="250" />
